@@ -1,0 +1,14 @@
+{
+  "name": "nodebasics",
+  "version": "1.0.0",
+  "description": "Just intro to node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dawid Cieślak",
+  "license": "ISC",
+  "dependencies": {
+    "superheroes": "^3.0.0"
+  }
+}
